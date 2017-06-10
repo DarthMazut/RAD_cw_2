@@ -1,0 +1,5 @@
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_2_RAD\Cw_2_RAD\Cw_2_RAD\bin\Debug\Cw_2_RAD.exe.config
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_2_RAD\Cw_2_RAD\Cw_2_RAD\bin\Debug\Cw_2_RAD.exe
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_2_RAD\Cw_2_RAD\Cw_2_RAD\bin\Debug\Cw_2_RAD.pdb
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_2_RAD\Cw_2_RAD\Cw_2_RAD\obj\Debug\Cw_2_RAD.exe
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_2_RAD\Cw_2_RAD\Cw_2_RAD\obj\Debug\Cw_2_RAD.pdb
